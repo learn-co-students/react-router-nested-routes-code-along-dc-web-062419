@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import MoviesList from '../components/MoviesList.js'
 import {
   BrowserRouter as Router,
   Route
